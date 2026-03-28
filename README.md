@@ -2,7 +2,8 @@
 
 This repository contains the code and data analysis behind my Computer Science thesis: Optimization of Race Strategy in Formula 1 using Machine Learning. The goal of this project was to explore how historical race data can be used to evaluate the effectiveness of race strategies — focusing on pit-stop timing, tire compounds, and lap performance.
 
-This project was accepted for presentation at the International Conference on Informatics and Information Technologies (CIIT 2025).
+This project was presented at the International Conference on Informatics and Information Technologies (CIIT 2025).
+[https://ciit.finki.ukim.mk/proceedings/ciit-2025-proceedings.pdf]
 
 ## 🏎️ Project Overview
 
